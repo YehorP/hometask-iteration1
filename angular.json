@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hometask-first-iteration"
+    }
+  },
+  "defaultProject": "hometask-first-iteration",
+  "cli": {
+    "analytics": "17716f38-0b7b-425d-8407-fe14acb80719"
+  }
 }
